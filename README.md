@@ -1,4 +1,4 @@
-# Social Media App
+# User authentication
 
 ![user_athentication](https://user-images.githubusercontent.com/98745885/187317385-9b753d75-90b6-4376-8ec0-2e7a30cf085b.png)
 
